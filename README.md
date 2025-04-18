@@ -33,4 +33,3 @@ WeatherApp is a weather forecasting application that allows users to search for 
 
 ## Demo video
 link: https://youtube.com/shorts/qA9lPHQwq6Y
-
